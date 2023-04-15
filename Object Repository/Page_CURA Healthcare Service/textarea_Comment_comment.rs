@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>0c9da194-9574-4251-aa9f-8cfc2d70ab59</webElementGuid>
+      <webElementGuid>2ba4770d-303e-4a14-9ac8-a464dc15fe0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>78b87a28-72f7-485a-9318-14a0bd467aef</webElementGuid>
+      <webElementGuid>7ed89ace-6ce1-461b-9fb6-81f9c6bfeb47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_comment</value>
-      <webElementGuid>73704cb6-4ec8-4280-b00a-94dd0b3210a2</webElementGuid>
+      <webElementGuid>a1354439-e549-4ab3-9674-0c97abba9d8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>comment</value>
-      <webElementGuid>44ad9def-1f41-479e-9cea-988ece9f2319</webElementGuid>
+      <webElementGuid>4eaa614d-7374-48a2-8a62-9f44b9c69479</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Comment</value>
-      <webElementGuid>ca17f260-9e84-4f21-9e4f-9e32ca681c40</webElementGuid>
+      <webElementGuid>e3dd5822-38d5-415e-8faf-e8ef216b29bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>799402fb-f667-4e95-a782-78e896ee162d</webElementGuid>
+      <webElementGuid>1583edc4-6cde-4182-b776-d4c5a0c24167</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt_comment&quot;)</value>
-      <webElementGuid>4ed89265-64d6-4cb1-9209-a06f981ac53d</webElementGuid>
+      <webElementGuid>f07d4dd2-e9c9-45d4-8458-a90992a984e0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='txt_comment']</value>
-      <webElementGuid>29ee5766-ecda-452c-ac6c-a02030a00825</webElementGuid>
+      <webElementGuid>45e67591-8086-4d80-8610-0516e7a317cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='appointment']/div/div/form/div[5]/div/textarea</value>
-      <webElementGuid>ccb42404-d488-466e-bd41-c6971d4f563c</webElementGuid>
+      <webElementGuid>a880e39c-7a8f-4cc3-b24e-7a0d6f271561</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>7dc186e6-6449-40de-981d-006d55f41819</webElementGuid>
+      <webElementGuid>4a76dc10-777a-44f1-800a-5539f997f0ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'txt_comment' and @name = 'comment' and @placeholder = 'Comment']</value>
-      <webElementGuid>884dd9c7-9737-42a2-8e72-2700031b55b9</webElementGuid>
+      <webElementGuid>fc7b150b-842d-493d-81fc-6bc5c83020c1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>4a32aa1a-2ee0-4695-a06a-359d2e6fd989</webElementGuid>
+      <webElementGuid>fffe7596-38d1-4040-b173-6e518ec8129b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>day</value>
-      <webElementGuid>25d5ceda-30c9-406d-b650-4010cef3fcf7</webElementGuid>
+      <webElementGuid>279caaec-a341-4054-940c-af328ba173b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>22</value>
-      <webElementGuid>3faaa9d2-fe8a-4a47-9405-70fd320eb413</webElementGuid>
+      <webElementGuid>f6184b4e-20a0-4508-be5a-669104bc797d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[4]/td[@class=&quot;day&quot;]</value>
-      <webElementGuid>6bb1c202-c790-4087-b7e9-b2802025db9f</webElementGuid>
+      <webElementGuid>05fa1e31-5a56-45cb-b825-f56b6091243c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[28]</value>
-      <webElementGuid>a048a630-07d7-46e1-952d-3461d370534d</webElementGuid>
+      <webElementGuid>58f89d72-dc1e-4c82-9acc-b9e6368731d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[28]</value>
-      <webElementGuid>398579c5-dfeb-4fd8-a96b-8f96a3ab5e50</webElementGuid>
+      <webElementGuid>af4f31fb-a8e0-4f3c-b9b3-7708fc575237</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[15]</value>
-      <webElementGuid>b83a3a15-b2d6-4b9d-951b-e540c8edcd6c</webElementGuid>
+      <webElementGuid>8e9c1fff-f068-4c66-b041-75d5d768f3d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[15]</value>
-      <webElementGuid>a98a5c74-c97b-4a33-adc0-1de84d97021f</webElementGuid>
+      <webElementGuid>e58053da-7a9b-422b-aede-9086dae6353e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='22']/parent::*</value>
-      <webElementGuid>7d120e1b-1de3-4e36-a096-d989943e801b</webElementGuid>
+      <webElementGuid>545425f9-e8c8-4273-8b6a-b064dc46c172</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[4]/td[7]</value>
-      <webElementGuid>732ed6e4-c00a-4f84-8008-be8627a98237</webElementGuid>
+      <webElementGuid>c18218c2-5068-465d-86ea-a73492fe02cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = '22' or . = '22')]</value>
-      <webElementGuid>913765b8-8673-49b8-a77a-fafd2cc15a38</webElementGuid>
+      <webElementGuid>28980854-d567-4922-92d0-9094bae745c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
